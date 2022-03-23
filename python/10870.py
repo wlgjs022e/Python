@@ -17,7 +17,7 @@ def solve():
         num1 += num2
         cnt += 1
         if (cnt == temp and cnt % 2 == 0):
-            print(num1)
+            print(num1)  
             break
 
         num2 += num1
